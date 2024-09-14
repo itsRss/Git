@@ -1,0 +1,4 @@
+# .env
+# randomfiles/
+
+# so whatever file names i mention here will never get tracked by the git and never gets commit.
